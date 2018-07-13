@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="br.unip.cc.bnmc.Insere"/>
+<fullyQualifiedTypeName name="br.unip.cc.bnmc.SelectSort"/>
+<fullyQualifiedTypeName name="br.unip.cc.bnmc.MergeSort"/>
+<fullyQualifiedTypeName name="br.unip.cc.bnmc.ShellSort"/>
+<fullyQualifiedTypeName name="br.unip.cc.bnmc.QuickSort"/>
+<fullyQualifiedTypeName name="br.unip.cc.bnmc.ImagemPadrao"/>
+<fullyQualifiedTypeName name="javax.swing.DefaultListModel"/>
+<fullyQualifiedTypeName name="br.unip.cc.bnmc.JInsereFrame"/>
+<fullyQualifiedTypeName name="javax.swing.JTextField"/>
+<fullyQualifiedTypeName name="br.unip.cc.bnmc.EDadoInvalido"/>
+<fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+<fullyQualifiedTypeName name="br.unip.cc.bnmc.NumeroPadrao"/>
+<fullyQualifiedTypeName name="br.unip.cc.bnmc.JInsereNumberFrame"/>
+<fullyQualifiedTypeName name="javax.swing.JButton"/>
+<fullyQualifiedTypeName name="br.unip.cc.bnmc.JOrdenadoNumberFrame"/>
+<fullyQualifiedTypeName name="br.unip.cc.bnmc.InsertSort"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="br.unip.cc.bnmc.ShakeSort"/>
+<fullyQualifiedTypeName name="br.unip.cc.bnmc.HeapSort"/>
+<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+</qualifiedTypeNameHistroy>
